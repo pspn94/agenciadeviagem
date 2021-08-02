@@ -11,7 +11,7 @@ function Footer() {
                     Cadastre-se e receba ofertas para suas férias!
                 </p>
                 <p className="footer-subscription-text">
-                    Você poden cancelar a inscrição a qualquer momento.
+                    Você pode cancelar a inscrição a qualquer momento.
                 </p>
                 <div className="input-areas">
                     <form>
@@ -24,37 +24,36 @@ function Footer() {
                 <div className="footer-link-wrapper">
                     <div className="footer-link-items">
                         <h2>Sobre Nós</h2>
-                        <Link to="/sign-up">Como funciona</Link>
-                        <Link to="/">O que falam sobre nós</Link>
-                        <Link to="/">Carreira</Link>
-                        <Link to="/">Investidores</Link>
+                        <Link to="/">Quem somos?</Link>
+                        <Link to="/">O que falam sobre nós?</Link>
+                        <Link to="/">Nossa Carreira</Link>
+                        <Link to="/">Nossos Investidores</Link>
                         <Link to="/">Termos de Serviço</Link>
                     </div>
                     <div className="footer-link-items">
                         <h2>Fale Conosco</h2>
-                        <Link to="/sign-up">Como funciona</Link>
-                        <Link to="/">O que falam sobre nós</Link>
-                        <Link to="/">Carreira</Link>
-                        <Link to="/">Investidores</Link>
-                        <Link to="/">Termos de Serviço</Link>
+                        <Link to="/">Contato</Link>
+                        <Link to="/">Suporte</Link>
+                        <Link to="/">Destinos</Link>
+                        <Link to="/">Patrocínio</Link>
+                        
                     </div>
                 </div>
                 <div className="footer-link-wrapper">
                     <div className="footer-link-items">
                         <h2>Vídeos</h2>
-                        <Link to="/sign-up">Como funciona</Link>
-                        <Link to="/">O que falam sobre nós</Link>
-                        <Link to="/">Carreira</Link>
-                        <Link to="/">Investidores</Link>
-                        <Link to="/">Termos de Serviço</Link>
+                        <Link to="/">Submeter vídeos</Link>
+                        <Link to="/">Embaixadores</Link>
+                        <Link to="/">Agência</Link>
+                        <Link to="/">Influenciadores</Link>
+                   
                     </div>
                     <div className="footer-link-items">
                         <h2>Redes Sociais</h2>
-                        <Link to="/sign-up">Como funciona</Link>
-                        <Link to="/">O que falam sobre nós</Link>
-                        <Link to="/">Carreira</Link>
-                        <Link to="/">Investidores</Link>
-                        <Link to="/">Termos de Serviço</Link>
+                        <Link to="/">Facebook</Link>
+                        <Link to="/">Instagram</Link>
+                        <Link to="/">Youtube</Link>
+                        <Link to="/">Twitter</Link>
                     </div>
                 </div>
             </div>

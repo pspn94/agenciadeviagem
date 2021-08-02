@@ -31,13 +31,13 @@ function Cards() {
             />
             <CardItem
               src='../images/img-4.jpg'
-              text='Experience Football on Top of the Himilayan Mountains'
+              text='Experimente jogar Futebol no topo das Montanhas do Himalaia'
               label='Aventura'
               path='/products'
             />
             <CardItem
               src='../images/img-8.jpg'
-              text='Ride through the Sahara Desert on a guided camel tour'
+              text='Monte um camelo pelo Deserto do Sahara'
               label='Adrenalina'
               path='/sign-up'
             />
